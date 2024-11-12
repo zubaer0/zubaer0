@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zubaer0
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science
+- 💞️ I’m looking to collaborate on data science and machine learning
 - 📫 How to reach me microzubaer@gmail.com
 
 <!---
