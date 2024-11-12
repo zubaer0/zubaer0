@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me ...
+- 📫 How to reach me microzubaer@gmail.com
 
 <!---
 zubaer0/zubaer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
